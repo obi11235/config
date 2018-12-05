@@ -1,0 +1,4 @@
+#!/bin/bash
+#/home/paul/extend_to_displayport 
+xinput --set-prop "SynPS/2 Synaptics TouchPad" "Synaptics Off" 2
+#/home/paul/reset_panel -s 300 &
