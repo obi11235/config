@@ -325,6 +325,11 @@
         <command>gnome-screenshot</command>
       </action>
     </keybind>
+    <keybind key="XF86Display">
+      <action name="Execute">
+        <command>/home/paul/tools/hdmi_span_output</command>
+      </action>
+    </keybind>
     <!-- Lock screen -->
     <keybind key="C-A-l">
       <action name="Execute">
